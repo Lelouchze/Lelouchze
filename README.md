@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zero
+- 👋 Hi, I’m Zero
 - 👀 I’m interested in python------c#
 - 🌱 I’m currently learning c++,c
 - 📫 How to reach me discord: @ZER0#1170
