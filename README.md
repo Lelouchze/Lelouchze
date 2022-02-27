@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zero
 - 👀 I’m interested in python------c#
-- 🌱 I’m currently learning c++,c
+- 🌱 I’m currently learning python AI
 - 📫 How to reach me discord: @ZER0#1170
 
 <!---
