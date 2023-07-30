@@ -5,9 +5,9 @@
 # Welcome to Ahmad's Universe! 👋
 
 <p align="center">
-  <a href="https://twitter.com/your-twitter-handle">Twitter</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
-  <a href="https://www.linkedin.com/in/your-linkedin/">LinkedIn</a> •
+  <a href="https://web.facebook.com/profile.php?id=100013526010202&mibextid=ZbWKwL&_rdc=1&_rdr">FaceBook</a> •
+  <a href="https://www.linkedin.com/in/ahmad-jaradat-465052286">LinkedIn</a> •
+  <a href="https://instagram.com/abj_joestar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D">Instagram</a> •
 </p>
 
 Hello there! I'm Ahmad Jaradat, a passionate game developer who loves creating immersive experiences through Unity. I'm fueled by creativity and constantly exploring new gameplay mechanics and storytelling techniques.
