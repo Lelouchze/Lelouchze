@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://your-game-dev-logo-url-here.png" alt="Your Game Dev Name" width="200">
+    <img src="https://github.com/Lelouchze/Lelouchze/blob/main/Ahmad's%20Logo.png" alt="Your Game Dev Name" width="200">
 </div>
 
 # Welcome to Ahmad's Universe! 👋
@@ -15,7 +15,7 @@ Hello there! I'm Ahmad Jaradat, a passionate game developer who loves creating i
 ## 🎮 Featured Projects
 
 ### [Game Title 1](https://link-to-game1-demo.com)
-!Box.lol(https://game1-screenshot-url-here.png)
+!Box.lol
 
 ## 🚀 Currently Working On
 
