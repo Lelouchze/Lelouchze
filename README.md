@@ -72,8 +72,8 @@ I'm always open to collaboration and teaming up with fellow developers. If you h
 You can reach out to me through the following channels:
 
 - Email: your.email@example.com
-- LinkedIn: (https://www.linkedin.com/in/ahmad-jaradat-465052286)
-- Instagram: [@abj_joestare]([https://www.instagram.com/your-instagram-handle/](https://instagram.com/abj_joestar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D))
+- LinkedIn: [Ahmad Jaradat](https://www.linkedin.com/in/ahmad-jaradat-465052286)
+- Instagram: [@abj_joestare](https://instagram.com/abj_joestar?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 - Facebook: [My Facebook Profile](https://web.facebook.com/profile.php?id=100013526010202&mibextid=ZbWKwL&_rdc=1&_rdr)
 - Discord: ZER0#2024
 
